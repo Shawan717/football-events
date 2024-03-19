@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.postimg.cc/JzJfFrhm/eheljjqkg3yslqawuqjj.webp",
+        "season": "FIFA World Cup 2022",
+        "winner_info": "Argentina",
+        "final": "Argentina VS France",
+        "date": "18 December 2022",
+        "fild_name":"Lusail Stadium,Qatar"
+    },
+    {
+        "id": 2,
+        "image": "https://i.postimg.cc/Y9SytMtv/41cdad8d959d45dbb5bfc153ab8c4b19.jpg",
+        "season": "FIFA World Cup 2018",
+        "winner_info": "France",
+        "final": "France VS Croatia",
+        "date": "15 July 2018",
+        "fild_name":" Luzhniki Stadium in Moscow,Russia"
+    },
+    {
+        "id": 3,
+        "image": "https://i.postimg.cc/MKw3G7Zk/germany-players-celebrate-with-their-trophy-after-winning-the-2014-world-cup-final-between-germany-a.webp",
+        "season": "FIFA World Cup 2014",
+        "winner_info": "Germany",
+        "final": "Germany VS Argentina",
+        "date": "13 July 2014",
+        "fild_name":"Maracanã Stadium in Rio de Janeiro, Brazil"
+    },
+    {
+        "id": 4,
+        "image": "https://i.postimg.cc/sDtXSg8R/spain.jpg",
+        "season": "FIFA World Cup 2010",
+        "winner_info": "Spain",
+        "final": "Spain vs Netherlands",
+        "date": "12 July 2010",
+        "fild_name":"Moses Mabhida,South Africa"
+    },
+    {
+        "id": 5,
+        "image": "https://i.postimg.cc/zBtDfzW6/964647067-68567a1551-b.jpg",
+        "season": "FIFA World Cup 2006",
+        "winner_info": "Italy",
+        "final": "Italy VS France",
+        "date": "9 July 2006",
+        "fild_name":"Olympiastadion in Berlin,Germany"
+    },
+    {
+        "id": 6,
+        "image": "https://i.postimg.cc/qMCBkd7D/2048.webp",
+        "season": "FIFA World Cup 2002",
+        "winner_info": "Brazil",
+        "final": "Brazil VS Germany",
+        "date": "30 June 2002",
+        "fild_name":"The International Stadium in Yokohama,Japan"
+    }
+]

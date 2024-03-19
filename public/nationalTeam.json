@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.postimg.cc/Hk92yP20/brazil-1.jpg",
+        "name":"Brazil",
+        "heading": "Seleção Brasileira de Futebol ",
+        "title": "According to reports, the first football ball in the country was brought in 1894 by Charles William Miller. However, the oldest records of football in Brazil date back to 1875, in Curitiba. The aristocracy dominated the football leagues, while the sport was gaining popularity in the countryside."
+    },
+    {
+        "id": 2,
+        "image": "https://i.postimg.cc/63yLF6Nz/674429e26bd3c8ee.jpg",
+        "name":"Argentina",
+        "heading": "La Albiceleste ",
+        "title": "As was the case across the South American continent, football came to Argentina via British sailors traveling to the Rio de la Plata basin in the 1860s. From there, the game developed in a number of British schools established in Argentina, spreading rapidly throughout the country from there."
+    },
+    {
+        "id": 3,
+        "image": "https://i.postimg.cc/qRSXrfJr/1244857307.jpg",
+        "name":"Portugal",
+        "heading": "The Selection ",
+        "title": "The first organized game in the country took place in 1875 in Camacha, Madeira, organized by Madeira-born Harry Hinton, who brought a football from England where he was studying. Popularity quickly spread across the island. Harry would go on to become honorary president of C.S. Marítimo."
+    },
+    {
+        "id": 4,
+        "image": "https://i.postimg.cc/DyVdYKpd/1031700340.jpg",
+        "name":"Spain",
+        "heading": "The Red Fury ",
+        "title": "Football was introduced into Spain by the British at the end of the 19th century (British miners established the first Spanish football club, Recreativo, in Huelva in 1889), and a professional league was set up in the 1920s. By the 1950s football had surpassed bullfighting in popularity."
+    },
+    {
+        "id": 5,
+        "image": "https://i.postimg.cc/13s0srQ8/England-World-Cup-Squad.jpg",
+        "name":"England",
+        "heading": "The Three Lions ",
+        "title": "The early years. Modern football originated in Britain in the 19th century. Since before medieval times, “folk football” games had been played in towns and villages according to local customs and with a minimum of rules."
+    },
+    {
+        "id": 6,
+        "image": "https://i.postimg.cc/pThzq0D6/prothomalo-english-import-media-2014-06-17-539f7f57231c7-1-belgium-team-serbia13.webp",
+        "name":"Belgium",
+        "heading": "The Red Devils ",
+        "title": "Belgium was the first mainland European country to play association football, after the Irish student Cyril B. Morrogh walked with a leather ball into the Josephites College of Melle on 26 October 1863."
+    }
+]

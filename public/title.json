@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.postimg.cc/sX8GWVSQ/32-CM8-HP-highres-1.webp",
+        "heading": "FIFA World Cup",
+        "title": "The FIFA World Cup was first held in 1930, when FIFA, the world's football governing body, decided to stage an international men's football tournament under the era of FIFA president Jules Rimet who put this idea into place."
+
+    },
+    {
+        "id": 2,
+        "image": "https://i.postimg.cc/44m0VZjJ/AP23161644790975-1686421761.webp",
+        "heading": "UEFA Champions League",
+        "title": "Introduced in 1955 as the Coupe des Clubs Champions Européens (French for European Champion Clubs' Cup), and commonly known as the European Cup, it was initially a straight knockout tournament open only to the champions of Europe's domestic leagues, with its winner reckoned as the European club champion."
+
+    },
+    {
+        "id": 3,
+        "image": "https://i.postimg.cc/Z5hsGNnR/NINTCHDBPICT000734073805.webp",
+        "heading": "Premier League",
+        "title": "The competition was founded as the FA Premier League on 20 February 1992 following the decision of First Division (top-tier league from 1888 until 1992) clubs to break away from the English Football League. However, teams may still be relegated to and promoted from the EFL Championship."
+
+    },
+    {
+        "id": 4,
+        "image": "https://i.postimg.cc/Z5Fs4qvL/rdzscb7uqw23tlibiu5p.jpg",
+        "heading": "Copa América",
+        "title": "The Copa América is the world's oldest international football tournament. The event was first held in 1916 in honour of the 100th anniversary of Argentina's independence—with Uruguay winning the inaugural title."
+
+    },
+    {
+        "id": 5,
+        "image": "https://i.postimg.cc/BZLhtp1b/1706200186632.png",
+        "heading": "UEFA European Football Championship",
+        "title": "The idea for a pan-European football tournament was first proposed by the French Football Federation's secretary-general Henri Delaunay in 1927, but it was not until 1958 that the tournament was started, three years after Delaunay's death. In honour of Delaunay, the trophy awarded to the champions is named after him."
+
+    },
+  
+    {
+        "id": 6,
+        "image": "https://i.postimg.cc/vH53tmhd/33e3912a3643480c9e50b05873e6d2b7.png",
+        "heading": "FIFA Club World Championship",
+        "title": "The first FIFA Club World Championship took place in Brazil in 2000, during which year it ran in parallel with the Intercontinental Cup, a competition played by the winners of the UEFA Champions League and the Copa Libertadores, with the champions of each tournament both recognised (in 2017) by FIFA as club world ..."
+
+    }
+
+]

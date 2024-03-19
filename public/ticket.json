@@ -1,0 +1,69 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.postimg.cc/nc8YZZNF/16x9-uclf-poster-3.webp",
+        "heading": "UEFA Champions League Final",
+        "title": "Real Madrid vs Liverpool",
+        "ticket_heading":"Whose tickets are listed below ?",
+        "ticket_title":"All the tickets are listed and priced by approved ticket specialists.Each ticket specialist competes with one another to provide you the lowest prices & the largest selection on the internet.",
+        "stadium":"Santiago Bernabéu Stadium",
+        "price":160
+
+
+    },
+    {
+        "id": 2,
+        "image": "https://i.postimg.cc/3x8GJw1T/Argentina-France-Match-Feature.webp",
+        "heading": "FIFA World Cup Final",
+        "title": "Argentina vs France",
+        "ticket_heading":"Whose tickets are listed below ?",
+        "ticket_title":"All the tickets are listed and priced by approved ticket specialists.Each ticket specialist competes with one another to provide you the lowest prices & the largest selection on the internet.",
+        "stadium":"Lusail Stadium",
+        "price":180
+
+    },
+    {
+        "id": 3,
+        "image": "https://i.postimg.cc/B6KLwPSx/man-city-vs-man-utd.jpg",
+        "heading": "Premier League",
+        "title": "Manchester City vs Manchester United",
+        "ticket_heading":"Whose tickets are listed below ?",
+        "ticket_title":"All the tickets are listed and priced by approved ticket specialists.Each ticket specialist competes with one another to provide you the lowest prices & the largest selection on the internet.",
+        "stadium":"Etihad Stadium",
+        "price":120
+
+
+    },
+    {
+        "id": 4,
+        "image": "https://i.postimg.cc/Kjcb3CHR/Whats-App-Image-2020-08-08-at-22-09-03.jpg",
+        "heading": "UEFA Champions League ",
+        "title": "Bayern Munich vs Barcelona",
+        "ticket_heading":"Whose tickets are listed below ?",
+        "ticket_title":"All the tickets are listed and priced by approved ticket specialists.Each ticket specialist competes with one another to provide you the lowest prices & the largest selection on the internet.",
+        "stadium":"Allianz Arena",
+        "price":100
+
+    },
+    {
+        "id": 5,
+        "image": "https://i.postimg.cc/bvfK2KGp/Al-Nassr-vs-Inter-Miami.webp",
+        "heading": "Friendly",
+        "title": "Al-Nassr vs Inter Miami",
+        "ticket_heading":"Whose tickets are listed below ?",
+        "ticket_title":"All the tickets are listed and priced by approved ticket specialists.Each ticket specialist competes with one another to provide you the lowest prices & the largest selection on the internet.",
+        "stadium":"Al-Awwal Park",
+        "price":80
+    },
+    {
+        "id": 6,
+        "image": "https://i.postimg.cc/wBzGBLPB/with-real-madrid-vs-barcelona-coming-up-i-decided-to-make-v0-7timv74lnyn81.webp",
+        "heading": "LaLiGa",
+        "title": "Real Madrid vs Barcelona",
+        "ticket_heading":"Whose tickets are listed below ?",
+        "ticket_title":"All the tickets are listed and priced by approved ticket specialists.Each ticket specialist competes with one another to provide you the lowest prices & the largest selection on the internet.",
+        "stadium":"Santiago Bernabéu Stadium",
+        "price":110
+
+    }
+]
