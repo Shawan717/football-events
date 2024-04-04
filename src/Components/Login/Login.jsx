@@ -1,14 +1,14 @@
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import { FcGoogle } from "react-icons/fc";
 import { FaGithub } from "react-icons/fa";
-import { useContext, useState } from "react";
+import { useContext, useEffect, useState } from "react";
 import { AuthContext } from "../AuthProvider/AuthProvider";
 
 
 
 
 const Login = () => {
-    const { signInUser, googleLogin, githubLogin } = useContext(AuthContext)
+    const { user, signInUser, googleLogin, githubLogin } = useContext(AuthContext)
     const location = useLocation();
     const navigate = useNavigate()
     const [error, setError] = useState('')
@@ -59,7 +59,11 @@ const Login = () => {
                 setError(error.message)
             })
     }
-
+    useEffect(()=>{
+        if(user){
+            navigate(location?.state ? location.state : '/') 
+        }
+    },[user,navigate,location.state])
     return (
 
 
